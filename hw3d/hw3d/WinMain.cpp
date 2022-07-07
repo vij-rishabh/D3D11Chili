@@ -6,5 +6,8 @@ int CALLBACK WinMain(
     LPSTR lpCmdLine,
     int nCmdShow)
 {
+    // register Window class
+
+    // create instance of window
     return 0;
 }
